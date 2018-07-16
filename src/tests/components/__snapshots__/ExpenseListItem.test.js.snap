@@ -7,7 +7,7 @@ exports[`should render ExpenseListItem with fixture data 1`] = `
     to="/edit/1"
   >
     <h3>
-      Expense List Item
+      Gum
     </h3>
   </Link>
   <p>
