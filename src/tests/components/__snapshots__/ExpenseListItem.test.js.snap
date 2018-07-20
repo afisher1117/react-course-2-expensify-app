@@ -11,9 +11,6 @@ exports[`should render ExpenseListItem with fixture data 1`] = `
     </h3>
   </Link>
   <p>
-    Gum
-  </p>
-  <p>
     $1.95
     -
     December 31st 1969
